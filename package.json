@@ -1,0 +1,14 @@
+{
+  "name": "music-cognition-some-notes",
+  "version": "1.0.0",
+  "description": "A talk on the neuropsychology of music",
+  "main": "index.js",
+  "author": "Ashwin Mukhija <achromatic.rainbow@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@mdi/font": "^3.4.93",
+    "bulma": "^0.7.2",
+    "remark": "^10.0.1"
+  }
+}
